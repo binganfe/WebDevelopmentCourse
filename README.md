@@ -1,10 +1,10 @@
 # WebDevelopmentCourse
 Note for this course
 
-#Note:
+# Note:
 
-##Node.Js
+## Node.Js
 
--What is Node?
+- What is Node?
 
 Ans: Node allows us to run JavaScript outside of the browser
