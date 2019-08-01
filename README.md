@@ -29,3 +29,8 @@ npm scripts allows us to do comments from package.json file
 
 #### In terminal:
 `npm run build`
+
+
+## React
+- import can be used because react has a webpack underneath and does the bundling.
+  Thus, require and browserify are not needed.
