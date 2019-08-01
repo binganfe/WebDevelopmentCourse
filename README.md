@@ -16,3 +16,16 @@ Ans: Node package manager. Through package.json file we can catch package from N
 
 ## NPM
 - -g to install package that can be used anywhere in my computer
+### NPM scripts
+npm scripts allows us to do comments from package.json file
+
+#### In package.json file:
+
+'''
+"scripts":{
+  "build": "browserify script.js > bundle.js"
+},
+'''
+
+#### In terminal:
+'npm run build'
