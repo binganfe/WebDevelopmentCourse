@@ -21,11 +21,11 @@ npm scripts allows us to do comments from package.json file
 
 #### In package.json file:
 
-'''
+```
 "scripts":{
   "build": "browserify script.js > bundle.js"
 },
-'''
+```
 
 #### In terminal:
-'npm run build'
+`npm run build`
