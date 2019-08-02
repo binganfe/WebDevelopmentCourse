@@ -68,4 +68,5 @@ npm scripts allows us to do comments from package.json file
 - Get
 - Put
 - Post
+  query string or body
 - Delete
