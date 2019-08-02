@@ -60,5 +60,12 @@ npm scripts allows us to do comments from package.json file
   
   
   
-  ## HTTP
-  ### Hypertext Transefer Protocol
+  
+  
+  
+## HTTP
+### Hypertext Transefer Protocol
+- Get
+- Put
+- Post
+- Delete
