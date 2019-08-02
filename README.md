@@ -34,3 +34,26 @@ npm scripts allows us to do comments from package.json file
 ## React
 - import can be used because react has a webpack underneath and does the bundling.
   Thus, require and browserify are not needed.
+  
+  ```
+  class Clock extends React.Component {
+    constructor(props){
+      super(props);
+      this.state = {date: new Date()};
+    }
+    
+    render(){
+      return (
+        <div>
+          <h1>Hello,world!</h1>
+          <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
+        </div>
+      );
+    }
+  }
+  
+  ReactDOM.render(
+    <Clock />,
+    document.getElementById('root')
+  );
+  ```
