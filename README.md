@@ -87,3 +87,15 @@ npm scripts allows us to do comments from package.json file
 ## HTML
 - forms automatically submit or tried to submit things. But we can replace <form> with <div> and implement submit with
   JSON and backend
+  
+  
+  
+  ## Browser method
+- document
+- window
+- fetch
+  ```
+  fetch('https://jsonplaceholder.typicode.com/users')
+		.then(response=> response.json())
+		.then(users => {this.setState({robots:users})});
+  ```
