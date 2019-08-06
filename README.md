@@ -90,7 +90,7 @@ npm scripts allows us to do comments from package.json file
   
   
   
-  ## Browser method
+## Browser method
 - document
 - window
 - fetch
@@ -99,3 +99,6 @@ npm scripts allows us to do comments from package.json file
 		.then(response=> response.json())
 		.then(users => {this.setState({robots:users})});
   ```
+
+
+
