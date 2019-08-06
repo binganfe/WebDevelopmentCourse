@@ -80,3 +80,10 @@ npm scripts allows us to do comments from package.json file
 - JSON: JavaScript Object Notation
 - JSON is a syntax for storing and exchanging data
 - JSON is text, written with JavaScript object notation
+
+
+
+
+## HTML
+- forms automatically submit or tried to submit things. But we can replace <form> with <div> and implement submit with
+  JSON and backend
