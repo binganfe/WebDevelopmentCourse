@@ -14,6 +14,9 @@ Ans: Node allows us to run JavaScript outside of the browser
 Ans: Node package manager. Through package.json file we can catch package from NPM. 
 
 
+
+
+
 ## NPM
 - -g to install package that can be used anywhere in my computer
 ### NPM scripts
@@ -29,6 +32,9 @@ npm scripts allows us to do comments from package.json file
 
 #### In terminal:
 `npm run build`
+
+
+
 
 
 ## React
@@ -62,7 +68,6 @@ npm scripts allows us to do comments from package.json file
   
   
   
-  
 ## HTTP
 ### Hypertext Transefer Protocol
 - Get
@@ -84,9 +89,12 @@ npm scripts allows us to do comments from package.json file
 
 
 
+
 ## HTML
 - forms automatically submit or tried to submit things. But we can replace `<form>` with `<div>` and implement submit with
   JSON and backend
+  
+  
   
   
   
@@ -99,6 +107,19 @@ npm scripts allows us to do comments from package.json file
 		.then(response=> response.json())
 		.then(users => {this.setState({robots:users})});
   ```
+
+
+
+
+
+## JS syntax
+`this.setState(Object.assign(this.state.user, {entries:count})`
+
+use Object.assign to update specific value in JSON object
+
+
+
+
 
 
 
