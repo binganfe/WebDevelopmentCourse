@@ -121,5 +121,7 @@ use Object.assign to update specific value in JSON object
 
 
 
+## SQL syntax
 
+`SELECT * FROM users JOIN login ON users.name = login.name;`
 
