@@ -67,6 +67,18 @@ npm scripts allows us to do comments from package.json file
   
   
   
+ ## Redux
+ ### Why Redux?
+ - Good for managing large state.
+ - Useful for sharing data between containers.
+ - Precitable state management using the 3 principles.
+ 
+ 
+ 
+  
+  
+  
+  
   
 ## HTTP
 ### Hypertext Transefer Protocol
