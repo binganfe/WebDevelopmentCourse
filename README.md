@@ -74,7 +74,7 @@ npm scripts allows us to do comments from package.json file
  - Precitable state management using the 3 principles.
  
 
- ![image](http://github.com/binganfe/WebDevelopmentCourse/raw/master/images/Redux.JPG)
+ ![image](images/Redux.JPG)
   
   
   
